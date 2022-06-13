@@ -6,7 +6,7 @@
 
 body {
     background-color: #ddd;
-    background-image: url(/image/bacground.png);
+    background-image: url(/img/bacground.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -16,7 +16,7 @@ body {
 }
 
 .header-1 .header-image img {
-    column-rule: red;
+    /* column-rule: red; */
     margin-left: 20px;
 }
 
@@ -173,6 +173,6 @@ footer .footer-1 {
     font-weight: 600;
 }
 
-.card .content .details ion-icon {
+.card .content .details ion-icon i {
     font-size: 1.4em;
 }
